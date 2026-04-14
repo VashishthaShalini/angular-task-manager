@@ -18,9 +18,7 @@ A clean and interactive Task Manager built using Angular (Standalone Components)
 - HTML / CSS
 - LocalStorage API
 
-## 📸 Screenshots
 
-(Add screenshots here later)
 
 ## ⚡ How to Run
 
