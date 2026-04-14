@@ -18,10 +18,11 @@ A clean and interactive Task Manager built using Angular (Standalone Components)
 - HTML / CSS
 - LocalStorage API
 
-
-
 ## ⚡ How to Run
 
 ```bash
 npm install
 ng serve
+
+## 🌐 Live Demo
+https://your-app.vercel.app
